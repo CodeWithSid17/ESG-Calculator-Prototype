@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Tata Steel Ltd",
+    "sector": "Steel & Metals",
+    "reporting_year": 2024,
+    "scope1_tco2e": 32500000,
+    "scope2_tco2e": 2100000,
+    "scope3_tco2e": 8500000,
+    "note": "Illustrative sample data for demo purposes only, not an official disclosure."
+  },
+  {
+    "name": "Reliance Industries Ltd",
+    "sector": "Oil, Gas & Petrochemicals",
+    "reporting_year": 2024,
+    "scope1_tco2e": 28000000,
+    "scope2_tco2e": 3200000,
+    "scope3_tco2e": 15000000,
+    "note": "Illustrative sample data for demo purposes only, not an official disclosure."
+  },
+  {
+    "name": "UltraTech Cement Ltd",
+    "sector": "Cement",
+    "reporting_year": 2024,
+    "scope1_tco2e": 41000000,
+    "scope2_tco2e": 1800000,
+    "scope3_tco2e": 4200000,
+    "note": "Illustrative sample data for demo purposes only, not an official disclosure."
+  },
+  {
+    "name": "ITC Ltd",
+    "sector": "FMCG & Conglomerate",
+    "reporting_year": 2024,
+    "scope1_tco2e": 950000,
+    "scope2_tco2e": 420000,
+    "scope3_tco2e": 2100000,
+    "note": "Illustrative sample data for demo purposes only, not an official disclosure."
+  },
+  {
+    "name": "Infosys Ltd",
+    "sector": "Information Technology",
+    "reporting_year": 2024,
+    "scope1_tco2e": 12000,
+    "scope2_tco2e": 95000,
+    "scope3_tco2e": 310000,
+    "note": "Illustrative sample data for demo purposes only, not an official disclosure."
+  },
+  {
+    "name": "Wipro Ltd",
+    "sector": "Information Technology",
+    "reporting_year": 2024,
+    "scope1_tco2e": 9500,
+    "scope2_tco2e": 78000,
+    "scope3_tco2e": 240000,
+    "note": "Illustrative sample data for demo purposes only, not an official disclosure."
+  },
+  {
+    "name": "Tata Motors Ltd",
+    "sector": "Automotive",
+    "reporting_year": 2024,
+    "scope1_tco2e": 610000,
+    "scope2_tco2e": 340000,
+    "scope3_tco2e": 21000000,
+    "note": "Illustrative sample data for demo purposes only, not an official disclosure."
+  },
+  {
+    "name": "JSW Steel Ltd",
+    "sector": "Steel & Metals",
+    "reporting_year": 2024,
+    "scope1_tco2e": 29500000,
+    "scope2_tco2e": 1950000,
+    "scope3_tco2e": 6800000,
+    "note": "Illustrative sample data for demo purposes only, not an official disclosure."
+  }
+]

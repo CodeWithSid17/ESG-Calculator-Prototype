@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Simple light gray page background */
+body {
+  background-color: #f3f4f6;
+}

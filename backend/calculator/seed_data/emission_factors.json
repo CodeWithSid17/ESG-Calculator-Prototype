@@ -1,0 +1,74 @@
+[
+  {
+    "category": "Grid Electricity (India Avg)",
+    "scope": "Scope 2",
+    "unit_type": "energy",
+    "base_unit": "kWh",
+    "factor_value": 0.716,
+    "note": "Illustrative India grid average factor (kg CO2e/kWh), based on typical CEA baseline range. For demo only."
+  },
+  {
+    "category": "Diesel",
+    "scope": "Scope 1",
+    "unit_type": "volume",
+    "base_unit": "Litres",
+    "factor_value": 2.68,
+    "note": "Illustrative factor (kg CO2e/Litre) for stationary/mobile diesel combustion. For demo only."
+  },
+  {
+    "category": "Petrol",
+    "scope": "Scope 1",
+    "unit_type": "volume",
+    "base_unit": "Litres",
+    "factor_value": 2.31,
+    "note": "Illustrative factor (kg CO2e/Litre) for petrol combustion. For demo only."
+  },
+  {
+    "category": "Piped Natural Gas (PNG)",
+    "scope": "Scope 1",
+    "unit_type": "volume",
+    "base_unit": "m3",
+    "factor_value": 2.02,
+    "note": "Illustrative factor (kg CO2e/m3) for natural gas combustion. For demo only."
+  },
+  {
+    "category": "LPG",
+    "scope": "Scope 1",
+    "unit_type": "mass",
+    "base_unit": "kg",
+    "factor_value": 2.98,
+    "note": "Illustrative factor (kg CO2e/kg) for LPG combustion. For demo only."
+  },
+  {
+    "category": "Coal",
+    "scope": "Scope 1",
+    "unit_type": "mass",
+    "base_unit": "kg",
+    "factor_value": 2.42,
+    "note": "Illustrative factor (kg CO2e/kg) for coal combustion. For demo only."
+  },
+  {
+    "category": "Purchased Water",
+    "scope": "Scope 3",
+    "unit_type": "volume",
+    "base_unit": "KL",
+    "factor_value": 0.34,
+    "note": "Illustrative factor (kg CO2e/KL) for water supply + treatment. For demo only."
+  },
+  {
+    "category": "Waste to Landfill",
+    "scope": "Scope 3",
+    "unit_type": "mass",
+    "base_unit": "kg",
+    "factor_value": 0.58,
+    "note": "Illustrative factor (kg CO2e/kg) for mixed waste sent to landfill. For demo only."
+  },
+  {
+    "category": "Business Air Travel",
+    "scope": "Scope 3",
+    "unit_type": "count",
+    "base_unit": "unit",
+    "factor_value": 133.0,
+    "note": "Illustrative factor (kg CO2e per flight-hour, entered as a count). For demo only."
+  }
+]
