@@ -31,6 +31,10 @@ function CompanyBenchmark() {
       <p className="text-xs text-gray-500 mb-4">
         Illustrative sample figures for demo purposes only — not verified official disclosures.
       </p>
+      <h2 className="text-lg font-semibold text-gray-800 mb-1">Company 2 Benchmark </h2>
+      <p className="text-xs text-gray-500 mb-4">
+       sample figures for demo purposes only — not verified official disclosures.
+      </p>
 
       {/* ---------- Chart ---------- */}
       <div className="bg-white shadow rounded-lg p-6 mb-6">
