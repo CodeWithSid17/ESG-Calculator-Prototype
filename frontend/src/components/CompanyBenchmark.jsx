@@ -60,6 +60,9 @@ function CompanyBenchmark() {
               <th className="py-2 pr-4">Scope 1 (tCO2e)</th>
               <th className="py-2 pr-4">Scope 2 (tCO2e)</th>
               <th className="py-2 pr-4">Scope 3 (tCO2e)</th>
+              <th className="py-2 pr-4">Scope 4 (tCO2e)</th>
+              <th className="py-2 pr-4">Scope 5 (tCO2e)</th>
+              <th className="py-2 pr-4">Scope 6 (tCO2e)</th>
             </tr>
           </thead>
           <tbody>
