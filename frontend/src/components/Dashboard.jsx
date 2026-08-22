@@ -504,15 +504,8 @@ function Dashboard() {
             caption={String(selectedYear)}
             note="Total emissions grouped by quarter — a smoother view than monthly for comparing periods."
           >
-            <ResponsiveContainer width="100%" height={280}>
-              <BarChart data={quarterlyChartData} barCategoryGap="40%">
-                <CartesianGrid stroke={TOKENS.hairline} vertical={false} />
-                <XAxis dataKey="quarter" tick={{ fill: TOKENS.muted, fontSize: 12 }} axisLine={{ stroke: TOKENS.hairline }} tickLine={false} />
-                <YAxis tick={{ fill: TOKENS.muted, fontSize: 12 }} axisLine={false} tickLine={false} />
-                <Tooltip content={<TooltipShell />} cursor={{ fill: TOKENS.paper }} />
-                <Bar dataKey="total_tco2e" fill={TOKENS.sage} radius={[4, 4, 0, 0]} maxBarSize={56} />
-              </BarChart>
-            </ResponsiveContainer>
+           
+           
           </ChartCard>
 
         </div>
